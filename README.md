@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/mayursolanki91"><img src="https://api.daily.dev/devcards/35ed01e44c5b446d9742fd02a1893341.png?r=uu6" width="400" alt="Mayur Solanki's Dev Card"/></a>
 <!--
 **mayursolankivasyerp/mayursolankivasyerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
